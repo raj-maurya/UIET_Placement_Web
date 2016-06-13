@@ -1,2 +1,2 @@
 # UIET_Placement_Web
-UIET placement website (Prototype) .
+UIET placement website (Prototype), Reay for deployment.
